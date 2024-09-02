@@ -2,7 +2,7 @@
   "name": "react-pj",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://julianvel11.github.io/Coach-Sarah-React/build",
+  "homepage": "https://julianvel11.github.io/react-project-sarah",
   "type": "module",
   "scripts": {
     "dev": "vite",
